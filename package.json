@@ -1,7 +1,7 @@
 {
-  "name": "odin-recursion",
+  "name": "odin-linked-list",
   "version": "1.0.0",
-  "description": "Practicing recursive functions",
+  "description": "Practicing implementation of linked list",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drBoki-programira/odin-recursion.git"
+    "url": "git+https://github.com/drBoki-programira/odin-linked-list.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/drBoki-programira/odin-recursion/issues"
+    "url": "https://github.com/drBoki-programira/odin-linked-list/issues"
   },
-  "homepage": "https://github.com/drBoki-programira/odin-recursion#readme",
+  "homepage": "https://github.com/drBoki-programira/odin-linked-list#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.29.3",
     "jest": "^30.3.0"
